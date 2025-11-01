@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1177761325192056832/1432852971896701008/Artboard_4.png?ex=69028fd1&is=69013e51&hm=c132c9dae9386ff9568b62b0656ee79149a9e4a3df27148d08f9b69c0bb4a072" height="400" alt="logo header">
+  <img src="https://res.cloudinary.com/dyscykxye/image/upload/v1762028320/nxctmcpra6qhog5fmqp2.png" height="400" alt="logo header">
 </p>
 
 ## CYBERNEXUS SCIENCE CLUB
